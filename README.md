@@ -48,3 +48,10 @@ Chinese translation
 
 - 计算机程序结构及其描述[M]. 袁淑君,等. 上海交通大学出版社,1988. ISBN 9787313001924
 - 计算机程序的构造和解释[M]. 裘宗燕. 机械工业出版社,2004. ISBN 9787111135104
+
+
+Video Chinese translation
+-------------------------
+
+- [youku](http://www.youku.com/playlist_show/id_18958522.html)
+- [github](https://github.com/FoOTOo/Learning-SICP)
