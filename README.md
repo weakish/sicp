@@ -24,4 +24,20 @@ Courses
 - [ADU](http://aduni.org/courses/sicp/)
 
 
+Videos
+------
 
+- by Hal Abelson and Gerald Jay Sussman given in July 1986 for Hewlett-Packard employees:
+
+    * http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+    * http://www.archive.org/details/MIT_Structure_of_Computer_Programs_1986
+
+- Berkeley webcast (CS61A)(fall 2008) 
+
+    * http://webcast.berkeley.edu/course_details_new.php?seriesid=2008-D-26263&semesterid=2008-D
+    * http://www.youtube.com/user/ucberkeley
+    * http://itunes.berkeley.edu/
+
+- alumni of ArsDigita University
+
+    http://aduni.org/courses/sicp/index.php?view=cw
