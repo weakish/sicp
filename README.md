@@ -55,3 +55,9 @@ Video Chinese translation
 
 - [youku](http://www.youku.com/playlist_show/id_18958522.html)
 - [github](https://github.com/FoOTOo/Learning-SICP)
+
+
+Review
+------
+
+[The Structure and Interpretation of the Computer Science Curriculum](http://www.ccs.neu.edu/racket/pubs/jfp2004-fffk.pdf)
